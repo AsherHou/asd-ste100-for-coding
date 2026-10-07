@@ -1,5 +1,6 @@
 {
   "name": "plan-first",
+  "version": "1.0.0",
   "displayName": "plan-first",
   "description": "ASD-STE100-style plans for AI coding agents: the agent writes a short plan you can read and approve before it changes code.",
   "author": {
