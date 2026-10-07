@@ -9,5 +9,5 @@ deny  = []
 
 [meta]
 source_path = "~/Desktop/aicode/AsherGithub/sources/asd-ste100-for-coding"
-description = "ASD-STE100-style plans for AI coding agents: Claude Code, Codex or Cursor writes a short plan you can read and approve before it changes code."
+description = "ASD-STE100-style plans for AI coding agents, inspired by Karpathy's 80% STE tip: Claude Code, Codex or Cursor writes a short plan you approve before it codes."
 readme_reviewed_sha256 = "de913ce5457e1636b960e34b8099df55a1859175c4b1422df953b0934ce88651"
