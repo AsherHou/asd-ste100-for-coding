@@ -1,0 +1,19 @@
+{
+  "arm": "C",
+  "label": "andrej-karpathy-skills CLAUDE.md (multica-ai, unofficial)",
+  "description": "The CLAUDE.md from github.com/multica-ai/andrej-karpathy-skills, pinned to one commit. It is a community file of coding-behavior guidelines inspired by a January 2026 post by Andrej Karpathy; it is not a plan format and was not written by Karpathy. The repository has no license, so we do not redistribute the file. Fetch it yourself into arms/external/ before running generate.py.",
+  "source": {
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "commit": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+    "path": "CLAUDE.md",
+    "fetch": "curl -fsSLo arms/external/karpathy-skills-CLAUDE.md https://raw.githubusercontent.com/multica-ai/andrej-karpathy-skills/2c606141936f1eeef17fa3043a72095b4765b9c2/CLAUDE.md"
+  },
+  "sha256": {
+    "external:karpathy-skills-CLAUDE.md": "694a2d721e41c385f3db492838c23299826df5ba9809e3b0721aac70021e196a"
+  },
+  "files": {
+    "*": {
+      "CLAUDE.md": "external:karpathy-skills-CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "plan-first",
+  "displayName": "plan-first",
+  "description": "ASD-STE100-style plans for AI coding agents: the agent writes a short plan you can read and approve before it changes code.",
+  "author": {
+    "name": "Asher",
+    "url": "https://github.com/AsherHou"
+  },
+  "homepage": "https://github.com/AsherHou/asd-ste100-for-coding",
+  "repository": "https://github.com/AsherHou/asd-ste100-for-coding",
+  "license": "MIT",
+  "keywords": [
+    "plan-first",
+    "asd-ste100",
+    "simplified-technical-english",
+    "plan-mode",
+    "human-in-the-loop",
+    "agent-skills"
+  ]
+}

@@ -1,0 +1,13 @@
+# .ghpublish.toml —— 本仓的发布清单。写一次，之后同步复用。
+# allow: 永久批准发布的路径 glob（支持 **）
+# deny : 永久拒绝的路径 glob
+# 两边都不匹配的文件 = 新文档，preflight 会提示一次。
+
+[docs]
+allow = ["README.md", "README.zh.md", "README.en.md", "README.zh-CN.md", "LICENSE", "LICENSE.md", "LICENSE.txt", "CONTRIBUTING.md", "CHANGELOG.md", "SECURITY.md", "CODE_OF_CONDUCT.md", ".gitignore", ".gitattributes", "plan-first/skills/plan-first/SKILL.md", "plan-first/skills/plan-first-zh/SKILL.md", "plan-first/rules/en/plan-first.md", "plan-first/rules/en/human-template.md", "plan-first/rules/zh-CN/plan-first.md", "plan-first/rules/zh-CN/human-template.md", "docs/theory-map.md", "docs/theory-map.zh-CN.md", "benchmark/README.md", "benchmark/examples/t1-en.md", "benchmark/examples/t5-en.md", "benchmark/examples/t1-zh-CN.md", "benchmark/arms/frozen/en/plan-first.md", "benchmark/arms/frozen/en/human-template.md", "benchmark/arms/frozen/zh-CN/plan-first.md", "benchmark/arms/frozen/zh-CN/human-template.md"]
+deny  = []
+
+[meta]
+source_path = "~/Desktop/aicode/AsherGithub/sources/asd-ste100-for-coding"
+description = "ASD-STE100-style plans for AI coding agents: Claude Code, Codex or Cursor writes a short plan you can read and approve before it changes code."
+readme_reviewed_sha256 = "de913ce5457e1636b960e34b8099df55a1859175c4b1422df953b0934ce88651"

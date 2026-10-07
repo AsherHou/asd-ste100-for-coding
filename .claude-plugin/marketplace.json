@@ -1,0 +1,14 @@
+{
+  "name": "asd-ste100-for-coding",
+  "owner": {
+    "name": "Asher"
+  },
+  "description": "ASD-STE100 for coding: plan-first makes your AI coding agent write a short plan you approve before it changes code.",
+  "plugins": [
+    {
+      "name": "plan-first",
+      "source": "./plan-first",
+      "description": "ASD-STE100-style plans for AI coding agents: the agent writes a short plan you can read and approve before it changes code."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# 凭证：目录规则挡不住随手放下的那一份，按扩展名再兜一层
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# 日志
+*.log
+logs/
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+.next/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/

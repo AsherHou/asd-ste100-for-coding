@@ -1,0 +1,8 @@
+{
+  "arm": "A",
+  "label": "Plain agent",
+  "description": "No project instructions. The project has no CLAUDE.md.",
+  "files": {
+    "*": {}
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arm": "D",
+  "label": "plan-first",
+  "description": "This repository's rules, frozen before generation. The project CLAUDE.md imports plan-first.md, as the README tells users to do. It also imports human-template.md, because with file tools off the agent cannot open the template itself. The exact rule text we tested is kept in arms/frozen/. The published rules differ only in the usage line at the top.",
+  "files": {
+    "en": {
+      "CLAUDE.md": {
+        "text": "@docs/rules/plan-first.md\n@docs/rules/human-template.md\n"
+      },
+      "docs/rules/plan-first.md": "frozen/en/plan-first.md",
+      "docs/rules/human-template.md": "frozen/en/human-template.md"
+    },
+    "zh": {
+      "CLAUDE.md": {
+        "text": "@docs/rules/plan-first.md\n@docs/rules/human-template.md\n"
+      },
+      "docs/rules/plan-first.md": "frozen/zh-CN/plan-first.md",
+      "docs/rules/human-template.md": "frozen/zh-CN/human-template.md"
+    }
+  },
+  "sha256": {
+    "frozen/en/plan-first.md": "535e9e121e7b4360c257e0313c347de5ba39bbc58cccb26acb5c0c4984819ad0",
+    "frozen/en/human-template.md": "b9dc140d100737faa27bb08c495252f584973e4dbbb8d24a1238a4fbce829d54",
+    "frozen/zh-CN/plan-first.md": "0770a1460647ac276cf269d615e63e32a4aac956592908f01749688a4c5b8960",
+    "frozen/zh-CN/human-template.md": "5e052850ee0ee3294daca9fa2130cc30640b9d4a1686ee807d52c5178beecf92"
+  }
+}

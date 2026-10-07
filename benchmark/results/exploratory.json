@@ -1,0 +1,94 @@
+{
+  "en": {
+    "A": {
+      "questions_per_plan": 4.9,
+      "asked": 0.45,
+      "decided_safely_and_stated": 0.375,
+      "decided_unsafely": 0.175,
+      "not_visible": 0.0,
+      "words_read": 917.8,
+      "inline_code_per_100_words": 4.273021715959827,
+      "file_paths_per_100_words": 0.8463521063520589,
+      "reader_recall_quote_fixed": 0.8699999999999999
+    },
+    "B": {
+      "questions_per_plan": 5.4,
+      "asked": 0.6,
+      "decided_safely_and_stated": 0.35,
+      "decided_unsafely": 0.05,
+      "not_visible": 0.0,
+      "words_read": 1045.8,
+      "inline_code_per_100_words": 4.315774632616607,
+      "file_paths_per_100_words": 0.9305360550325006,
+      "reader_recall_quote_fixed": 0.825
+    },
+    "C": {
+      "questions_per_plan": 5.4,
+      "asked": 0.575,
+      "decided_safely_and_stated": 0.425,
+      "decided_unsafely": 0.0,
+      "not_visible": 0.0,
+      "words_read": 935.8,
+      "inline_code_per_100_words": 4.301202326710846,
+      "file_paths_per_100_words": 0.9974054596451817,
+      "reader_recall_quote_fixed": 0.6849999999999999
+    },
+    "D": {
+      "questions_per_plan": 3.4,
+      "asked": 0.425,
+      "decided_safely_and_stated": 0.5,
+      "decided_unsafely": 0.075,
+      "not_visible": 0.0,
+      "words_read": 1064.5,
+      "inline_code_per_100_words": 0.22208890908164608,
+      "file_paths_per_100_words": 0.477891899463574,
+      "reader_recall_quote_fixed": 0.6966666666666667
+    },
+    "E": {
+      "questions_per_plan": 3.6,
+      "asked": 0.525,
+      "decided_safely_and_stated": 0.375,
+      "decided_unsafely": 0.1,
+      "not_visible": 0.0,
+      "words_read": 1282.2,
+      "inline_code_per_100_words": 3.291654011256514,
+      "file_paths_per_100_words": 0.7749305863093245,
+      "reader_recall_quote_fixed": 0.8300000000000001
+    }
+  },
+  "zh": {
+    "A": {
+      "questions_per_plan": 5.4,
+      "asked": 0.55,
+      "decided_safely_and_stated": 0.4,
+      "decided_unsafely": 0.05,
+      "not_visible": 0.0,
+      "words_read": 1591.8,
+      "inline_code_per_100_words": 2.688439243213862,
+      "file_paths_per_100_words": 0.5862396705958071,
+      "reader_recall_quote_fixed": 0.8016666666666665
+    },
+    "D": {
+      "questions_per_plan": 3.2,
+      "asked": 0.35,
+      "decided_safely_and_stated": 0.55,
+      "decided_unsafely": 0.1,
+      "not_visible": 0.0,
+      "words_read": 1475.4,
+      "inline_code_per_100_words": 0.15811843971824013,
+      "file_paths_per_100_words": 0.29671624078188175,
+      "reader_recall_quote_fixed": 0.7
+    },
+    "E": {
+      "questions_per_plan": 4.4,
+      "asked": 0.525,
+      "decided_safely_and_stated": 0.35,
+      "decided_unsafely": 0.1,
+      "not_visible": 0.025,
+      "words_read": 959.6,
+      "inline_code_per_100_words": 1.1798841886756466,
+      "file_paths_per_100_words": 0.3110492959817414,
+      "reader_recall_quote_fixed": 0.8666666666666666
+    }
+  }
+}

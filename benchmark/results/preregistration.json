@@ -1,0 +1,19 @@
+{
+  "note": "SHA-256 of the analysis plan and harness, recorded before judging. score.py and the analysis plan in README.md did not change after generation. The rule files tested are in arms/frozen/.",
+  "sha256": {
+    "README.md": "b6425fcb58e0d28817868c5a95050a203bbe35d180a4f1f40cc6e9393b8f4d49",
+    "score.py": "398a955a9a1d7556bc825302bb5cd882efe44b07405ffda88065c151c0ff0ebc",
+    "generate.py": "77db8932c276ac8d363c1ec182708d2dca1ef2371840857aa1a290c5303faec2",
+    "redact.py": "6117080712882444ed585bdf3a1c8dc4e191eaf694a275be122551a57289810d",
+    "judge.js": "8f67cd0d623afcee6c321f6ca36830be607719348ccce01c30ba93c7250c1117",
+    "arms/A.json": "9f3f2f034d9080a6d28f5517099efb4e7ed76f1c5ffde3728fd32997ff7bf4c6",
+    "arms/B.json": "2f2afefd13d51e132decb96fc1a2a1cf9c9bae8fc71e75bd193fd2c049394022",
+    "arms/C.json": "09564bfe546265ad2e114fdc09aa9cf4a5f91c642d98f46408f0ad4c342876bf",
+    "arms/D.json": "b2a332971d2b8adb583dcbadcf55496e8c6c543007bface35fd1f341d1edcaec",
+    "arms/E.json": "295b29b43c2cd2bb2c1fb9e63e05471af129362af8f4b83a317d3c9fa0c7839c",
+    "../../skills/plan-first/references/en/plan-first.md": "535e9e121e7b4360c257e0313c347de5ba39bbc58cccb26acb5c0c4984819ad0",
+    "../../skills/plan-first/references/en/human-template.md": "b9dc140d100737faa27bb08c495252f584973e4dbbb8d24a1238a4fbce829d54",
+    "../../skills/plan-first/references/zh-CN/plan-first.md": "0770a1460647ac276cf269d615e63e32a4aac956592908f01749688a4c5b8960",
+    "../../skills/plan-first/references/zh-CN/human-template.md": "5e052850ee0ee3294daca9fa2130cc30640b9d4a1686ee807d52c5178beecf92"
+  }
+}

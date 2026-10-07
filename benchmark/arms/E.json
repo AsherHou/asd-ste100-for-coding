@@ -1,0 +1,17 @@
+{
+  "arm": "E",
+  "label": "Plan + short summary (ablation)",
+  "description": "Ablation arm. The agent writes its plan as usual, plus a separate short summary file for the approver. It has no plan-first template and no writing rules, so it separates the effect of 'a short document for the human' from plan-first's structure and rules.",
+  "files": {
+    "en": {
+      "CLAUDE.md": {
+        "text": "# Project instructions\n\nWhen you plan a change that I need to approve, also write a short summary of the plan for the person who approves it. Keep the summary to at most 600 words, and put it in its own file with \"summary\" in the file name.\n"
+      }
+    },
+    "zh": {
+      "CLAUDE.md": {
+        "text": "# 项目说明\n\n当你规划一项需要我批准的改动时，另写一份计划摘要给批准人看。摘要不超过 1000 字，单独放在一个文件里，文件名里带 summary。\n"
+      }
+    }
+  }
+}
